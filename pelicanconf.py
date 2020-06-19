@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'montoyamoraga'
 SITENAME = 'presxs'
 SITEURL = 'https://montoyamoraga.io/presxs'
+THEME = './theme'
 
 PATH = 'content'
 
