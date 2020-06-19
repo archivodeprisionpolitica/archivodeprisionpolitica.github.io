@@ -1,5 +1,4 @@
 Title: Contacto
-Date: 2020-06-10
-Category: meta
+Category: principal
 
 Contacto de esta web.

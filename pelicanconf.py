@@ -13,7 +13,9 @@ TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = 'es'
 
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (('Acerca', '{slug}/acerca.html'),
+)
 
 PAGE_SAVE_AS = '{slug}.html'
 
