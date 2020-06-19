@@ -44,6 +44,11 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+PAGE_PATHS = [
+    'pages',
+    'testimonios',
+]
+
 # based on https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog
 STATIC_PATHS = [
     'images',
