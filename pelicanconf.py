@@ -46,7 +46,10 @@ DEFAULT_PAGINATION = False
 
 PAGE_PATHS = [
     'pages',
-    'testimonios',
+]
+
+ARTICLE_PATHS = [
+    'testimonios'
 ]
 
 # based on https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog
