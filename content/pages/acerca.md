@@ -1,4 +1,4 @@
 Title: Acerca
 Category: principal
 
-Acerca de esta web.
+Acerca de esta web

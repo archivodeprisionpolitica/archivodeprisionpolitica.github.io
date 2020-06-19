@@ -14,7 +14,10 @@ TIMEZONE = 'US/Eastern'
 DEFAULT_LANG = 'es'
 
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = (('Acerca', '{slug}/acerca.html'),
+MENUITEMS = (
+    ('Testimonios', 'testimonios.html'),
+    ('Acerca', 'acerca.html'),
+    ('Contacto', 'contacto.html'),
 )
 
 PAGE_SAVE_AS = '{slug}.html'

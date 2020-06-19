@@ -1,4 +1,4 @@
 Title: Contacto
 Category: principal
 
-Contacto de esta web.
+Contacto de esta web
