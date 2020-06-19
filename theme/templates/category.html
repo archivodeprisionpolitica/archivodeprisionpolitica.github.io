@@ -1,13 +1,15 @@
-{% extends "index.html" %}
+{% extends "base.html" %}
 
 {% block title %}{{ SITENAME }} - {{ category }} category{% endblock %}
 
 {% block content_title %}
-<h2>Articles in the {{ category }} category</h2>
+<h2>Testimonios</h2>
 {% endblock %}
-{% for article in dates %}
-    <dt>{{ article.locale_date }}</dt>
-    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+{% block content %}
+<ul>
+{% for article in articles %}
+    
+    <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
 {% endfor %}
-<!-- /#posts-list
-
+</ul>
+{% endblock %}
