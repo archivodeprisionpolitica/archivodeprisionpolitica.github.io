@@ -16,7 +16,8 @@ DEFAULT_LANG = 'es'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-    ('Acerca', 'acerca.html'),
+    ('Acerca de', 'acerca-de.html'),
+    ('Nosotres', 'nosotres.html'),
     ('Testimonios', 'category/testimonios.html'),
     ('Contacto', 'contacto.html'),
 )
