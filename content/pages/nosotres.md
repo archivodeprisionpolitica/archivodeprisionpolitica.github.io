@@ -10,5 +10,3 @@ Sus integrantes son: Valentina Cortese Lastra  (fotoperiodista), Amanda Tapia Le
 Proyectos y plataformas aliadas:
 
 (Aquí irían los logos de esas plataformas)
-
-© Todos los derechos reservados 18-O Archivo de prisión política de la revuelta en Chile.
