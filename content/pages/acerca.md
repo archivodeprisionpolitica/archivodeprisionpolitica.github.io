@@ -1,4 +1,4 @@
-Title: Acerca
+Title: Acerca de
 Category: principal
 
 Proyecto de arte medial que tiene como objetivo principal documentar la prisión política de la revuelta en Chile, con la finalidad de darle rostro a las historias de las, les y los prisioneros; registrar las repercusiones de la prisión política para elles y su entorno, utilizando el testimonio como una herramienta esencial para conocer un momento histórico, además de levantar un espacio que propicie la memoria, justicia y reparación para las víctimas de violaciones a los DDHH cometidas por agentes del Estado en los últimos meses.
