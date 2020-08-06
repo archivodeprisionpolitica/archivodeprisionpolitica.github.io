@@ -69,3 +69,6 @@ EXTRA_PATH_METADATA = {
     'extra/LICENSE': {'path': 'LICENSE'},
     'extra/README': {'path': 'README'},
 }
+
+CACHE_CONTENT = False
+LOAD_CONTENT_CACHE = False
