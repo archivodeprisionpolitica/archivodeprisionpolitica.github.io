@@ -1,3 +1,9 @@
+
+// DOM variables
+let content = document.getElementById("content");
+let myCanvas = null;
+
+
 let assetsImages = [];
 
 let assetsPrefix = "./assets/";
@@ -29,7 +35,10 @@ function preload() {
 function setup() {
 
   // canvas size
-  createCanvas(600, 400);
+  myCanvas = createCanvas(600, 400);
+
+  // DOM manipulation
+  myCanvas.parent(content);
 
   // white background
   background(255, 0);
