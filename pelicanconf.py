@@ -58,6 +58,7 @@ ARTICLE_PATHS = [
 STATIC_PATHS = [
     'images',
     'extra',
+    'assets',
 ]
 
 # based on https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog
