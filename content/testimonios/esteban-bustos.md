@@ -37,6 +37,8 @@ Los tres fumamos cigarro, todos andábamos con encendedor, o sea, ¿cualquier pe
 
 El 9 de abril salgo de la sección de máxima seguridad del CAS, la cárcel de alta seguridad. Puedes darte cuenta que nuestro caso es un caso político ya que nos tienen, sólo por ser parte del Movimiento Juvenil Lautaro, encerrados en una cárcel que tiene un régimen de 21 horas de encierro. Pasas 21 horas encerrado en una habitación solo, tienes 1 hora y 30 minutos de pasillo y 1 hora y 30 minutos de patio.
 
+![](./images/esteban-bustos/2.jpg)
+
 **¿Estaban ustedes con otros presos políticos de la revuelta?**
 
 **E:** El 30 de octubre se había dictaminado que teníamos que ir a Santiago 1, nosotros esperábamos haber llegado a la sección de prisión política que se armó allá; finalmente, cuando estábamos en el camino a llegar a Santiago 1, Gendarmería levanta un informe de que nosotros no podemos ir a Santiago 1 porque somos un peligro para ellos. Temían que pudiésemos hacer un tipo de motín y dictan que tenemos que ser trasladados a la sección de máxima seguridad de la Cárcel de Alta Seguridad (CAS) una de las cárceles más restrictivas hoy en Chile. Ahí se evidenció que fue porque nosotros somos parte del Lautaro, sabían que nuestro discurso podía pegarle a otros presos y levantarles la cárcel. 
@@ -55,6 +57,10 @@ No éramos necesarios para que existiera un motín en Santiago 1, por las pésim
 
 **E:** Exacto, Guacolda es nuestra organización. Guacolda se arma o nace desde las primeras canas que empieza a hacer Lautaro en el año 1994-1995, cuando cae casi todo el Lautaro preso, esto cesa el año 2005 ya con todos los presos políticos lautarinos fuera de las cárceles y se rearma otra vez porque hay nuevamente prisioneros políticos del Lautaro en la cana.
 
+![](./images/esteban-bustos/3.jpg)
+
+![](./images/esteban-bustos/4.jpg)
+
 **¿Qué significa para ti ser un preso político de la última revuelta en Chile?**
 
 E: Uno nunca puede estar orgulloso de ser prisionero político, porque la idea es nunca caer y siempre poder estar dando la lucha, pero hoy siento una profunda solidaridad con los demás presos. Hoy en día soy privilegiado de estar en mi casa, de poder hablar con ustedes, de estar con mi pareja, con mis hijos, pero el sentimiento es de rabia, rabia de que aquí no existe libertad de opinión, ni libertad de creencia política, no tienes la libertad que pregona la democracia, no existe.
@@ -66,6 +72,8 @@ Hoy y durante toda la democracia hemos visto que los luchadores sociales caen pr
 **E:** La cárcel es un mundo aparte, es como si afuera no estuviera pasando nada. Dos días antes de que yo saliera recién gendarmería estaba empezando a usar mascarillas. Su método de contención del virus es al mismo tiempo un castigo. Nosotros estuvimos con personas que venían de la cárcel de Puente Alto, cuando se supo de dónde venían los tomaron, los llevaron a un piso en donde no hay más presos y los dejaron encerrados ahí aislados durante dos semanas, te castigan por enfermarte.
 
 Tienes un enfermero que llega a las 8:30 am se va antes de las 12 del día y después, si llega, no lo ves hasta las 17:00 pm, finalmente lo ves a las 21:00 hrs que es la hora de repartir los últimos tratamientos, de ahí se va y no hay médico hasta el otro día. Las condiciones del hospital penal tampoco son muy buenas, es un hospital chico, no cuenta con el espacio para generar distanciamiento social entre personas, las camas están unas a un lado de otras y el personal médico -por lo que se ve- no tiene muchos insumos.
+
+![](./images/esteban-bustos/5.jpg)
 
 **Cuéntanos sobre la huelga de hambre que ustedes hicieron en la cárcel**
 
