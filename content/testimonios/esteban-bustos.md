@@ -1,9 +1,9 @@
-Title: esteban-bustos
+Title: Esteban Bustos
 Date: 2020-08-06
 
-# Esteban Bustos
-
 *Militante del Movimiento Juvenil Lautaro (MJL). Residente de la comuna Pedro Aguirre Cerda, Región Metropolitana. Esteban y su compañera Patricia nos reciben en su casa, a través de una videollamada, en la que conversamos sobre su engorroso proceso de privación de libertad. El sol le pega en la cara, mientras habla, fuma e intenta estabilizar la conexión.*
+
+![](./images/esteban-bustos/1.jpg)
 
 **¿Nos puedes contar a grandes rasgos cómo fue el contexto de tu detención?**
 
