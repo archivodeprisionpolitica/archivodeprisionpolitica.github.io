@@ -3,7 +3,7 @@ Date: 2020-08-06
 
 *Militante del Movimiento Juvenil Lautaro (MJL). Residente de la comuna Pedro Aguirre Cerda, Región Metropolitana. Esteban y su compañera Patricia nos reciben en su casa, a través de una videollamada, en la que conversamos sobre su engorroso proceso de privación de libertad. El sol le pega en la cara, mientras habla, fuma e intenta estabilizar la conexión.*
 
-![](./images/esteban-bustos/1.jpg)
+![esteban-bustos/1.jpg](./images/esteban-bustos/1.jpg)
 
 **¿Nos puedes contar a grandes rasgos cómo fue el contexto de tu detención?**
 
@@ -37,7 +37,7 @@ Los tres fumamos cigarro, todos andábamos con encendedor, o sea, ¿cualquier pe
 
 El 9 de abril salgo de la sección de máxima seguridad del CAS, la cárcel de alta seguridad. Puedes darte cuenta que nuestro caso es un caso político ya que nos tienen, sólo por ser parte del Movimiento Juvenil Lautaro, encerrados en una cárcel que tiene un régimen de 21 horas de encierro. Pasas 21 horas encerrado en una habitación solo, tienes 1 hora y 30 minutos de pasillo y 1 hora y 30 minutos de patio.
 
-![](./images/esteban-bustos/2.jpg)
+![esteban-bustos/2.jpg](./images/esteban-bustos/2.jpg)
 
 **¿Estaban ustedes con otros presos políticos de la revuelta?**
 
@@ -57,9 +57,9 @@ No éramos necesarios para que existiera un motín en Santiago 1, por las pésim
 
 **E:** Exacto, Guacolda es nuestra organización. Guacolda se arma o nace desde las primeras canas que empieza a hacer Lautaro en el año 1994-1995, cuando cae casi todo el Lautaro preso, esto cesa el año 2005 ya con todos los presos políticos lautarinos fuera de las cárceles y se rearma otra vez porque hay nuevamente prisioneros políticos del Lautaro en la cana.
 
-![](./images/esteban-bustos/3.jpg)
+![esteban-bustos/3.jpg](./images/esteban-bustos/3.jpg)
 
-![](./images/esteban-bustos/4.jpg)
+![esteban-bustos/4.jpg](./images/esteban-bustos/4.jpg)
 
 **¿Qué significa para ti ser un preso político de la última revuelta en Chile?**
 
@@ -73,7 +73,7 @@ Hoy y durante toda la democracia hemos visto que los luchadores sociales caen pr
 
 Tienes un enfermero que llega a las 8:30 am se va antes de las 12 del día y después, si llega, no lo ves hasta las 17:00 pm, finalmente lo ves a las 21:00 hrs que es la hora de repartir los últimos tratamientos, de ahí se va y no hay médico hasta el otro día. Las condiciones del hospital penal tampoco son muy buenas, es un hospital chico, no cuenta con el espacio para generar distanciamiento social entre personas, las camas están unas a un lado de otras y el personal médico -por lo que se ve- no tiene muchos insumos.
 
-![](./images/esteban-bustos/5.jpg)
+![esteban-bustos/5.jpg](./images/esteban-bustos/5.jpg)
 
 **Cuéntanos sobre la huelga de hambre que ustedes hicieron en la cárcel**
 
