@@ -8,8 +8,9 @@
 <div>
   <ul>
     {% for article in articles %}
-        <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
-        <img src="{{ SITEURL }}/images/{{ article.galleryimage }}">
+        <a href="{{ SITEURL }}/{{ article.url }}">
+          <img src="{{ SITEURL }}/images/{{ article.galleryimage }}">
+        {{ article.title }}</a>
     {% endfor %}
     </ul>
 </div>
