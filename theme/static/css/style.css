@@ -47,7 +47,7 @@ img {
 
 /* testimonio class for divs with images */
 .testimonio {
-  width: 33.33%;
+  /* width: 33.33%; */
   float: left;
   padding: 10px;
   display: block;
