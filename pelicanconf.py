@@ -18,7 +18,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     ('Acerca', 'acerca.html'),
     ('Nosotres', 'nosotres.html'),
-    ('Testimonios', 'category/testimonios.html'),
+    ('Testimonios', 'testimonios.html'),
     ('Reflexiones', 'reflexiones.html'),
     ('Contacto', 'contacto.html'),
 )
