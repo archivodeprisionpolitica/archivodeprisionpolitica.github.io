@@ -4,10 +4,14 @@
 
 {% block content %}
 <h1>Testimonio</h1>
-<ul>
-{% for article in articles %}
-    <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
-    <li>probando nueva funcionalidad</li>
-{% endfor %}
-</ul>
+
+<div>
+  <ul>
+    {% for article in articles %}
+        <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
+        <li>{{ SITEURL }}/images/{{ article.url }}/1.jpg></li>
+    {% endfor %}
+    </ul>
+</div>
+
 {% endblock %}
