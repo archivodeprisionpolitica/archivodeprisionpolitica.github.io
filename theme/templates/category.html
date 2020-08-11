@@ -9,9 +9,8 @@
   <ul>
     {% for article in articles %}
     <div class = "testimonio">
-      <a href="{{ SITEURL }}/{{ article.url }}">
-      <img src="{{ SITEURL }}/images/{{ article.galleryimage }}">
-      {{ article.title }}</a>
+      <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/images/{{ article.galleryimage }}"></a>
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
     </div>
     {% endfor %}
     </ul>
