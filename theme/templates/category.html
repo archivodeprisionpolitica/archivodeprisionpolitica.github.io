@@ -9,7 +9,7 @@
   <ul>
     {% for article in articles %}
         <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
-        <li>{{ SITEURL }}/images/{{ article.url }}/1.jpg></li>
+        <li>{{ SITEURL }}/images/{{ article.url }}[:-2]</li>
     {% endfor %}
     </ul>
 </div>
