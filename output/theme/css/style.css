@@ -44,3 +44,13 @@ img {
   margin-right: auto;
   width: 50%;
 }
+
+/* testimonio class for divs with images */
+.testimonio {
+  width: 33.33%;
+  float: left;
+  padding: 10px;
+  display: block;
+  color: #000;
+  text-decoration: none;
+}
