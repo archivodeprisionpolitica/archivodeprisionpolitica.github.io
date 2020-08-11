@@ -18,7 +18,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     ('Acerca', 'acerca.html'),
     ('Nosotres', 'nosotres.html'),
-    ('Testimonios', 'testimonios.html'),
+    ('Testimonios', 'category/testimonios.html'),
     ('Reflexiones', 'reflexiones.html'),
     ('Contacto', 'contacto.html'),
 )
@@ -52,7 +52,7 @@ PAGE_PATHS = [
 ]
 
 ARTICLE_PATHS = [
-    'testimonio'
+    'testimonios'
 ]
 
 # based on https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog
