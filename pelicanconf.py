@@ -19,6 +19,7 @@ MENUITEMS = (
     ('Acerca', 'acerca.html'),
     ('Nosotres', 'nosotres.html'),
     ('Testimonios', 'category/testimonios.html'),
+    ('Reflexiones', 'reflexiones.html'),
     ('Contacto', 'contacto.html'),
 )
 
