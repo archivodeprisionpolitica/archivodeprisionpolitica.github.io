@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}{{ SITENAME }} - {{ category.upper() }}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ category|capitalize }}{% endblock %}
 
 {% block content %}
 <h1>Testimonios</h1>
