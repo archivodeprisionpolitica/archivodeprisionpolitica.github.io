@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'archivodeprisionpolitica'
 SITENAME = 'presxsdelarevuelta'
-SITEURL = 'https://archivodeprisionpolitica.io/'
+SITEURL = 'https://archivodeprisionpolitica.io'
 THEME = './theme'
 
 PATH = 'content'
