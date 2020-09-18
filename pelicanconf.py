@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'montoyamoraga'
-SITENAME = 'presxs'
-SITEURL = 'https://montoyamoraga.io/presxs'
+AUTHOR = 'archivodeprisionpolitica'
+SITENAME = 'presxsdelarevuelta'
+SITEURL = 'https://archivodeprisionpolitica.io/'
 THEME = './theme'
 
 PATH = 'content'
