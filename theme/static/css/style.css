@@ -44,7 +44,7 @@ h6 a { color: inherit !important }
 
 #menu a:link    {color: white; text-decoration: none; }
 #menu a:hover   { color: white; text-decoration: underline; }
-#menu a:visited { color: white; 
+#menu a:visited { color: white; }
 
 #post-list {
     margin-bottom: 1em;
