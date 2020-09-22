@@ -3,12 +3,12 @@
 {% block title %}{{ SITENAME }} - {{ category|capitalize }}{% endblock %}
 
 {% block content %}
-<h1>Testimonios</h1>
+<h1 class="tituloPagina">Testimonios</h1>
 
 <div>
   <ul>
     {% for article in articles %}
-    <div class = "testimonio" class="tituloPagina">
+    <div class = "testimonio">
       <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/images/{{ article.galleryimage }}"></a>
       <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
     </div>
