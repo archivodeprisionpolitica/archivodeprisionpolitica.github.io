@@ -1,4 +1,4 @@
-Title: Nosotres
+Title: Equipo
 Category: principal
 
 ¿Quiénes somos?
