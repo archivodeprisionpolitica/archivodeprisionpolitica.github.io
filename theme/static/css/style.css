@@ -91,7 +91,7 @@ a.project {
 }
 
 /* tituloPagina class for titles of every website */
-tituloPagina {
+.tituloPagina {
   text-align: center;
   text-transform: uppercase;
 }
