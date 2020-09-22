@@ -2,7 +2,8 @@ body {
   font-family: monospace;
   font-size: 100%;
   /* background-color: white; */
-  background-image: url("{{ SITEURL }}/assets/background.png");
+  /* background-image: url("{{ SITEURL }}/assets/background.png"); */
+  /* background-repeat: no-repeat; */
   color: #111;
   width: 80%;
   min-width: 400px;
