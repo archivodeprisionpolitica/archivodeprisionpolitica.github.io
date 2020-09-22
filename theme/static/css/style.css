@@ -19,9 +19,13 @@ body {
   display: block;
 }
 
-a:link    { color: blue; text-decoration: none;      }
-a:hover   { color: blue; text-decoration: underline; }
-a:visited { color: blue;                             }
+/* a:link    { color: blue; text-decoration: none;      } */
+/* a:hover   { color: blue; text-decoration: underline; } */
+/* a:visited { color: blue;                             } */
+
+a:link    { color: white; text-decoration: none;      }
+a:hover   { color: white; text-decoration: underline; }
+a:visited { color: white;                             }
 
 h1 a { color: inherit !important }
 h2 a { color: inherit !important }
@@ -30,8 +34,13 @@ h4 a { color: inherit !important }
 h5 a { color: inherit !important }
 h6 a { color: inherit !important }
 
+#menu {
+  background-color: red;
+}
+
 #menu li {
     display: inline;
+
 }
 
 #post-list {
