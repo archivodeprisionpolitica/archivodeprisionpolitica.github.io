@@ -53,7 +53,8 @@ PAGE_PATHS = [
 ]
 
 ARTICLE_PATHS = [
-    'testimonios'
+    'testimonios',
+    'reflexiones'
 ]
 
 # based on https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog
