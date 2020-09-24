@@ -38,10 +38,8 @@ Si bien los levantaban a las ocho de la mañana para desayunar media hora despu�
 
 El **estar en prisión muchas veces conlleva un estigma del que es difícil desligarse,** pero Nicolás dice: “Hubo entrevistas que me dejaron pésimo, pero a pesar de eso tuve apoyo de mucha gente y en general de toda la isla. En ese sentido tuve suerte, quizá de no haber sido por la presión social y la ayuda de organizaciones, todavía seguiría dentro cumpliendo prisión preventiva.”
 
-# - ¿Qué significa para ti ser un preso político de la revuelta social en Chile?
+# ¿Qué significa para ti ser un preso político de la revuelta social en Chile?
 
-- Nunca me había planteado esa pregunta. No creo que signifique algo bueno. Quizás en el contexto de caer por luchar, pero justamente eso es lo más fome, que metan presa a la gente por estar luchando por un bien común. Sobre todo los montajes que hacen, **a veces me pregunto si los carabineros son personas o no.**
-
-
+Nunca me había planteado esa pregunta. No creo que signifique algo bueno. Quizás en el contexto de caer por luchar, pero justamente eso es lo más fome, que metan presa a la gente por estar luchando por un bien común. Sobre todo los montajes que hacen, **a veces me pregunto si los carabineros son personas o no.**
 
 ![nicolas-llanllan/4.jpg](./images/nicolas-llanllan/4.jpg)
