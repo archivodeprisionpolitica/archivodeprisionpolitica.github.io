@@ -9,7 +9,7 @@
   <ul>
     {% for article in articles %}
     <div class = "testimonio">
-      <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/images/{{ article.galleryimage }}"></a>
+      <a href="{{ SITEURL }}/{{ article.url }}"><img class="testimonioImagen" src="{{ SITEURL }}/images/{{ article.galleryimage }}"></a>
       <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
     </div>
     {% endfor %}
