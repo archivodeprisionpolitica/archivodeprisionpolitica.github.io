@@ -1,10 +1,10 @@
 Title: Raúl Nicolás Llanllán
-galleryimage: nicolas-llanllan/1.jpg
+galleryimage: raul-nicolas-llanllan/1.jpg
 Date: 2020-09-06
 
 *Por supuestos desórdenes públicos y agresión a una funcionaria de Carabineros, el estudiante secundario que participó de las manifestaciones en contra de la PSU, estuvo 20 días preso en el Centro de Detención Preventiva (CDP) de Castro en Chiloé. La violencia institucional no estuvo ausente en su caso.*
 
-![nicolas-llanllan/1.jpg](./images/nicolas-llanllan/1.jpg)
+![raul-nicolas-llanllan/1.jpg](./images/raul-nicolas-llanllan/1.jpg)
 
 A partir del **18 de Octubre** del 2019 las movilizaciones a nivel nacional tomaron fuerza, Nicolás (19) participó de varias, pero recuerda principalmente la toma convocada por estudiantes, en la que **paralizaron el acceso a las industrias salmoneras de Quellón por diez días.**
 
@@ -16,7 +16,7 @@ Era de noche, Nicolás no recuerda el día exacto, pero sí lo que pasó: **un e
 
 El siete de enero un grupo de adherentes al **movimiento #NomasPSU,** se manifestaron frente a la gobernación provincial de Castro. Las ex Fuerzas Especiales (FFEE) de Carabineros llegaron. Comenzó un tira y afloja entre ellos y les manifestantes, las personas querían “ganar la calle” y lo lograron, lo que causó que los efectivos entraran con mayor violencia directamente a detener personas. Todes corrieron. Nicolás volvió, junto a otres, a alegar por el nivel de **violencia en las detenciones.**
 
-![nicolas-llanllan/2.jpg](./images/nicolas-llanllan/2.jpg)
+![raul-nicolas-llanllan/2.jpg](./images/raul-nicolas-llanllan/2.jpg)
 
 Sin embargo, recién cuando Nicolás se encaminó a su casa **lo tomaron detenido.** Recuerda que **lo tomaron por atrás, le tiraron al suelo y cuando sintió la presión de una rodilla en su espalda, le pusieron las esposas. Casi quedó sin respiración** cuando uno de los funcionarios lo tomó para sentarlo junto a otres detenides. Esa noche la pasaron en el calabozo.
 
@@ -34,7 +34,7 @@ Si bien los levantaban a las ocho de la mañana para desayunar media hora despu�
 
 **Era muy fácil perder la noción del tiempo sin salidas al patio y sin ventanas en la celda,** por lo que era muy complejo saber qué hora era. A veces se dormía a las seis de la tarde e incluso a las diez de la noche, pero en diez de la noche otras no conciliaba el sueño sino hasta que era muy entrada la madrugada. 
 
-![nicolas-llanllan/3.jpg](./images/nicolas-llanllan/3.jpg)
+![raul-nicolas-llanllan/3.jpg](./images/raul-nicolas-llanllan/3.jpg)
 
 El **estar en prisión muchas veces conlleva un estigma del que es difícil desligarse,** pero Nicolás dice: “Hubo entrevistas que me dejaron pésimo, pero a pesar de eso tuve apoyo de mucha gente y en general de toda la isla. En ese sentido tuve suerte, quizá de no haber sido por la presión social y la ayuda de organizaciones, todavía seguiría dentro cumpliendo prisión preventiva.”
 
@@ -42,4 +42,4 @@ El **estar en prisión muchas veces conlleva un estigma del que es difícil desl
 
 Nunca me había planteado esa pregunta. No creo que signifique algo bueno. Quizás en el contexto de caer por luchar, pero justamente eso es lo más fome, que metan presa a la gente por estar luchando por un bien común. Sobre todo los montajes que hacen, **a veces me pregunto si los carabineros son personas o no.**
 
-![nicolas-llanllan/4.jpg](./images/nicolas-llanllan/4.jpg)
+![raul-nicolas-llanllan/4.jpg](./images/raul-nicolas-llanllan/4.jpg)
