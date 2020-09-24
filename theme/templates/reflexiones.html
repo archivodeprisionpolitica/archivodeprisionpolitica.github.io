@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} - {{ category|capitalize }}{% endblock %}
+
+{% block content %}
+<h1 class="tituloPagina">Reflexiones</h1>
+
+<div>
+  <ul>
+    {% for article in articles %}
+    <div class = "reflexion">
+      <a href="{{ SITEURL }}/{{ article.url }}"><img class="reflexionImagen" src="{{ SITEURL }}/images/{{ article.galleryimage }}"></a>
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </div>
+    {% endfor %}
+    </ul>
+</div>
+
+{% endblock %}
