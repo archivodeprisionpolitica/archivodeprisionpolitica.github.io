@@ -1,4 +1,5 @@
 Title: César Moreno
+Category: testimonios
 galleryimage: cesar-moreno/1.jpg
 Date: 2020-09-06
 
