@@ -8,7 +8,7 @@
 <div>
   <ul>
     {% for article in articles %}
-    {% if category == "reflexiones" %}
+    {% if tag == "reflexiones" %}
     <div class = "reflexion">
       <a href="{{ SITEURL }}/{{ article.url }}"><img class="reflexionImagen" src="{{ SITEURL }}/images/{{ article.galleryimage }}"></a>
       <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
