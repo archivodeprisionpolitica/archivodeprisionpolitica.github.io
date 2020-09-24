@@ -1,5 +1,5 @@
-Title: Raúl Nicolás Llanllán
-galleryimage: raul-nicolas-llanllan/1.jpg
+Title: Nicolás Llanllán
+galleryimage: nicolas-llanllan/1.jpg
 Date: 2020-09-06
 
 *Estudiante secundario, residente de Quellón. Nos cuenta sobre su detención, posterior prisión preventiva y sus gustos, desde su casa y a pesar de los problemas de conexión y un incidente con “alguien” entrando a la entrevista, a través de la pantalla de su celular nos muestra pedazos de su cotidiano.*
