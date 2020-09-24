@@ -97,6 +97,7 @@ a.project {
   color: red;
 }
 
-.testimonioImagen img {
-  border-radius: 100%;
+/* # testimonioImagen class for images on testimonio */
+.testimonioImagen {
+  border-radius:  50%;
 }
