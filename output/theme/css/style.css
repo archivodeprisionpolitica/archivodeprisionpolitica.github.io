@@ -96,3 +96,7 @@ a.project {
   text-transform: uppercase;
   color: red;
 }
+
+.testimonioImagen img {
+  border-radius: 100%;
+}
