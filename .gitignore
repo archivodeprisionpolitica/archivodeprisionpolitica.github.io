@@ -1,8 +1,0 @@
-# MacOS 
-.DS_Store
-
-# Python3 virtualenv
-env/
-
-# pelican
-__pycache__

@@ -1,3 +1,0 @@
-# dependencies
-pelican
-Markdown
